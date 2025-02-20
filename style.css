@@ -1,0 +1,39 @@
+body{
+    background-color: #406d96;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.container{
+    max-width: 50%;
+    margin: 0 auto;
+    margin-top: 200px;
+    padding: 20px;
+    text-align: center;
+    background-color: #2f3a56; 
+    box-shadow: 0 2px 4px #84a0e1;
+}
+
+h1, h2, p{
+    color: white;
+}
+
+input[type="text"]{
+    padding: 10px;
+    font-size: 14px;
+    width: 60%;
+}
+
+button{
+    padding: 10px 20px;
+    font-size: 15px;
+    background-color: #ff9746;
+    color: white;
+    border: none;
+    cursor: pointer;
+
+}
+
+#responseData{
+    margin-top: 20px;
+    font-size: 18px;
+}
